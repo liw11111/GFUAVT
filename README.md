@@ -121,7 +121,7 @@ Additionally, we designed an effective learning strategy to enhance the tracking
 ## **Quick Start** 🚀
 
 ### Dataset
-- **GFUAVT**: [Baidu Drive](https://drive.google.com/drive/folders/1EscBadX-wMAT56_It5lXY-S3-b5nK1wH)  
+- **GFUAVT**: [Baidu Drive](https://pan.baidu.com/s/1jEyIM3XnzOI-gmijPO2uGQ#list/path=%2F)  
 
 
 ### Dataset Structure
